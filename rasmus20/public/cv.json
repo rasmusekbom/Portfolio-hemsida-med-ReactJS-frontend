@@ -1,0 +1,33 @@
+[
+    {    
+        "Företag": "Staffansgården, Delsbo",
+        "Tidsperiod": "Juni 2017 - nuvarande",
+        "Arbetstitel": "Socialterapeut / Personlig Assistent"  
+         
+    },
+    {    
+        "Företag": "Lone Pine Koala Sanctuary, Australien",
+        "Tidsperiod": "November 2016 - Mars 2017",
+        "Arbetstitel": "Socialterapeut / Personlig Assistent"    
+    },
+    {    
+        "Företag": "Svenska Kyrkan, Delsbo",
+        "Tidsperiod": "Juni 2016 - Oktober 2016",
+        "Arbetstitel": "Socialterapeut / Personlig Assistent"    
+    },
+    {    
+        "Företag": "The Burren Hostel, Irland",
+        "Tidsperiod": "Juni 2015 - Augusti 2015",
+        "Arbetstitel": "Socialterapeut / Personlig Assistent"    
+    },
+    {    
+        "Skola": "Bromangymnasiet",
+        "Tidsperiod": "Augusti 2013 - Juni 2016",
+        "Utbildning": "Teknikprogrammet med inriktning programmering"    
+    },
+    {    
+        "Skola": "Edugrade Yrkeshögskola",
+        "Tidsperiod": "September 2021 - April 2023",
+        "Utbildning": "Systemutvecklare .NET med AI-kompetens."    
+    }
+]
